@@ -1,0 +1,1154 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "msgid """
+msgstr "msgstr """
+
+msgid ""Project-Id-Version: Ubytovani Plugin\n""
+msgstr ""Content-Type: text/plain; charset=UTF-8\n""
+
+msgid ""Content-Transfer-Encoding: 8bit\n""
+msgstr ""Language: de_DE\n""
+
+msgid ""Plural-Forms: nplurals=2; plural=(n != 1);\n""
+msgstr ""
+
+msgid "msgid "-- Vyberte --""
+msgstr "msgstr "-- Auswählen --""
+
+msgid ""
+msgstr "msgid "-- Vyberte stát --""
+
+msgid "msgstr "-- Land auswählen --""
+msgstr ""
+
+msgid "msgid "Adresa""
+msgstr "msgstr "Adresse""
+
+msgid ""
+msgstr "msgid "Adresa:""
+
+msgid "msgstr "Adresse:""
+msgstr ""
+
+msgid "msgid "Akce""
+msgstr "msgstr "Aktion""
+
+msgid ""
+msgstr "msgid "Aktivní licence""
+
+msgid "msgstr "Aktive Lizenz""
+msgstr ""
+
+msgid "msgid "Aktuálně blokované termíny""
+msgstr "msgstr "Aktuell gesperrte Termine""
+
+msgid ""
+msgstr "msgid "Ano""
+
+msgid "msgstr "Ja""
+msgstr ""
+
+msgid "msgid "Ano, chci trvale odstranit všechna data pluginu při jeho odinstalaci.""
+msgstr "msgstr "Ja, ich möchte alle Plug-in-Daten bei der Deinstallation dauerhaft löschen.""
+
+msgid ""
+msgstr "msgid "Blokace""
+
+msgid "msgstr "Sperre""
+msgstr ""
+
+msgid "msgid "Blokace byla odstraněna.""
+msgstr "msgstr "Sperre wurde entfernt.""
+
+msgid ""
+msgstr "msgid "Blokování termínů""
+
+msgid "msgstr "Terminsperrung""
+msgstr ""
+
+msgid "msgid "Byt číslo 37 – kniha hostů""
+msgstr "msgstr "Wohnung Nr. 37 – Gästebuch""
+
+msgid ""
+msgstr "msgid "Byt číslo 37 – kniha hostů (%d)""
+
+msgid "msgstr "Wohnung Nr. 37 – Gästebuch (%d)""
+msgstr ""
+
+msgid "msgid "Celková cena""
+msgstr "msgstr "Gesamtpreis""
+
+msgid ""
+msgstr "msgid "Celkové turistické poplatky:""
+
+msgid "msgstr "Gesamte Touristenabgaben:""
+msgstr ""
+
+msgid "msgid "Cena""
+msgstr "msgstr "Preis""
+
+msgid ""
+msgstr "msgid "Cena (Kč)""
+
+msgid "msgstr "Preis (CZK)""
+msgstr ""
+
+msgid "msgid "Cena pro %d %s""
+msgstr "msgstr "Preis für %d %s""
+
+msgid ""
+msgstr "msgid "Cena pro %d %s (Kč / noc)""
+
+msgid "msgstr "Preis für %d %s (CZK / Nacht)""
+msgstr ""
+
+msgid "msgid "Cena ubytování (Kč):""
+msgstr "msgstr "Unterkunftspreis (CZK):""
+
+msgid ""
+msgstr "msgid "Cena za ubytování""
+
+msgid "msgstr "Unterkunftspreis""
+msgstr ""
+
+msgid "msgid "Cena:""
+msgstr "msgstr "Preis:""
+
+msgid ""
+msgstr "msgid "Ceny""
+
+msgid "msgstr "Preise""
+msgstr ""
+
+msgid "msgid "Ceny byly uloženy.""
+msgstr "msgstr "Preise wurden gespeichert.""
+
+msgid ""
+msgstr "msgid "Ceny za noc podle počtu osob""
+
+msgid "msgstr "Preise pro Nacht nach Personenanzahl""
+msgstr ""
+
+msgid "msgid "Chyba""
+msgstr "msgstr "Fehler""
+
+msgid ""
+msgstr "msgid "Chyba při ukládání do databáze.""
+
+msgid "msgstr "Fehler beim Speichern in der Datenbank.""
+msgstr ""
+
+msgid "msgid "Chyba zápisu do databáze""
+msgstr "msgstr "Datenbank-Schreibfehler""
+
+msgid ""
+msgstr "msgid "Chybí ID pokoje""
+
+msgid "msgstr "Raum-ID fehlt""
+msgstr ""
+
+msgid "msgid "Chybí ID rezervace.""
+msgstr "msgstr "Reservierungs-ID fehlt.""
+
+msgid ""
+msgstr "msgid "Chybí ID záznamu.""
+
+msgid "msgstr "Datensatz-ID fehlt.""
+msgstr ""
+
+msgid "msgid "Chybí rok exportu.""
+msgstr "msgstr "Exportjahr fehlt.""
+
+msgid ""
+msgstr "msgid "DIČ""
+
+msgid "msgstr "USt-IdNr.""
+msgstr ""
+
+msgid "msgid "DIČ:""
+msgstr "msgstr "USt-IdNr.:""
+
+msgid ""
+msgstr "msgid "Datum do""
+
+msgid "msgstr "Datum bis""
+msgstr ""
+
+msgid "msgid "Datum expirace není k dispozici.""
+msgstr "msgstr "Ablaufdatum nicht verfügbar.""
+
+msgid ""
+msgstr "msgid "Datum narození""
+
+msgid "msgstr "Geburtsdatum""
+msgstr ""
+
+msgid "msgid "Datum narození:""
+msgstr "msgstr "Geburtsdatum:""
+
+msgid ""
+msgstr "msgid "Datum od""
+
+msgid "msgstr "Datum von""
+msgstr ""
+
+msgid "msgid "Datum odjezdu""
+msgstr "msgstr "Abreisedatum""
+
+msgid ""
+msgstr "msgid "Datum odjezdu:""
+
+msgid "msgstr "Abreisedatum:""
+msgstr ""
+
+msgid "msgid "Datum příjezdu""
+msgstr "msgstr "Anreisedatum""
+
+msgid ""
+msgstr "msgid "Datum příjezdu:""
+
+msgid "msgstr "Anreisedatum:""
+msgstr ""
+
+msgid "msgid "Detail rezervace""
+msgstr "msgstr "Reservierungsdetails""
+
+msgid ""
+msgstr "msgid "Detail rezervace č. %d""
+
+msgid "msgstr "Reservierungsdetails Nr. %d""
+msgstr ""
+
+msgid "msgid "Do""
+msgstr "msgstr "Bis""
+
+msgid ""
+msgstr "msgid "Dobrý den %s %s,""
+
+msgid "msgstr "Guten Tag %s %s,""
+msgstr ""
+
+msgid "msgid "Dobrý den, v příloze naleznete výzvu k úhradě zálohy na rezervaci.""
+msgstr "msgstr "Guten Tag, im Anhang finden Sie die Aufforderung zur Anzahlung für Ihre Reservierung.""
+
+msgid ""
+msgstr "msgid "Dobrý den,<br>v příloze zasíláme fakturu za vaši rezervaci.<br><br>S pozdravem<br>Byt číslo 37""
+
+msgid "msgstr "Guten Tag,<br>im Anhang senden wir Ihnen die Rechnung für Ihre Reservierung.<br><br>Mit freundlichen Grüßen<br>Wohnung Nr. 37""
+msgstr ""
+
+msgid "msgid "Dodavatel:""
+msgstr "msgstr "Lieferant:""
+
+msgid ""
+msgstr "msgid "Děkujeme za vaši rezervaci. Níže naleznete shrnutí:""
+
+msgid "msgstr "Vielen Dank für Ihre Reservierung. Unten finden Sie eine Zusammenfassung:""
+msgstr ""
+
+msgid "msgid "Děkujeme. Vaše rezervace nyní čeká na schválení.""
+msgstr "msgstr "Vielen Dank. Ihre Reservierung wartet nun auf Bestätigung.""
+
+msgid ""
+msgstr "msgid "E-mail""
+
+msgid "msgstr "E-Mail""
+msgstr ""
+
+msgid "msgid "E-mail pro ověření licence""
+msgstr "msgstr "E-Mail zur Lizenzüberprüfung""
+
+msgid ""
+msgstr "msgid "E-mail:""
+
+msgid "msgstr "E-Mail:""
+msgstr ""
+
+msgid "msgid "E-mailová adresa odesílatele""
+msgstr "msgstr "E-Mail-Adresse des Absenders""
+
+msgid ""
+msgstr "msgid "Email""
+
+msgid "msgstr "E-Mail""
+msgstr ""
+
+msgid "msgid "Export""
+msgstr "msgstr "Export""
+
+msgid ""
+msgstr "msgid "Export PDF""
+
+msgid "msgstr "PDF exportieren""
+msgstr ""
+
+msgid "msgid "E‑mail""
+msgstr "msgstr "E-Mail""
+
+msgid ""
+msgstr "msgid "F""
+
+msgid "msgstr "F""
+msgstr ""
+
+msgid "msgid "Faktura""
+msgstr "msgstr "Rechnung""
+
+msgid ""
+msgstr "msgid "Faktura za ubytování – Byt číslo 37""
+
+msgid "msgstr "Rechnung für Unterkunft – Wohnung Nr. 37""
+msgstr ""
+
+msgid "msgid "Faktura č.""
+msgstr "msgstr "Rechnung Nr.""
+
+msgid ""
+msgstr "msgid "Fakturace""
+
+msgid "msgstr "Abrechnung""
+msgstr ""
+
+msgid "msgid "Fakturační údaje""
+msgstr "msgstr "Rechnungsdaten""
+
+msgid ""
+msgstr "msgid "Firma""
+
+msgid "msgstr "Firma""
+msgstr ""
+
+msgid "msgid "ID rezervace""
+msgstr "msgstr "Reservierungs-ID""
+
+msgid ""
+msgstr "msgid "IČO""
+
+msgid "msgstr "Firmen-ID""
+msgstr ""
+
+msgid "msgid "IČO:""
+msgstr "msgstr "Firmen-ID:""
+
+msgid ""
+msgstr "msgid "Jiná""
+
+msgid "msgstr "Andere""
+msgstr ""
+
+msgid "msgid "Jméno""
+msgstr "msgstr "Vorname""
+
+msgid ""
+msgstr "msgid "Jméno a příjmení""
+
+msgid "msgstr "Vor- und Nachname""
+msgstr ""
+
+msgid "msgid "Jméno odesílatele e-mailů""
+msgstr "msgstr "Name des E-Mail-Absenders""
+
+msgid ""
+msgstr "msgid "Jméno:""
+
+msgid "msgstr "Vorname:""
+msgstr ""
+
+msgid "msgid "Kniha hostů""
+msgstr "msgstr "Gästebuch""
+
+msgid ""
+msgstr "msgid "Kód je vázán na e-mail: %s""
+
+msgid "msgstr "Code ist an E-Mail gebunden: %s""
+msgstr ""
+
+msgid "msgid "Legenda:""
+msgstr "msgstr "Legende:""
+
+msgid ""
+msgstr "msgid "Licence""
+
+msgid "msgstr "Lizenz""
+msgstr ""
+
+msgid "msgid "Licence byla úspěšně vytvořena.""
+msgstr "msgstr "Lizenz wurde erfolgreich erstellt.""
+
+msgid ""
+msgstr "msgid "Licencni kod""
+
+msgid "msgstr "Lizenzcode""
+msgstr ""
+
+msgid "msgid "Licenční kód:""
+msgstr "msgstr "Lizenzcode:""
+
+msgid ""
+msgstr "msgid "Max. počet osob""
+
+msgid "msgstr "Max. Personenanzahl""
+msgstr ""
+
+msgid "msgid "Např. 123456789/0100 – zobrazí se ve faktuře místo IBANu.""
+msgstr "msgstr "Z.B. 123456789/0100 – wird auf der Rechnung anstelle der IBAN angezeigt.""
+
+msgid ""
+msgstr "msgid "Narozen""
+
+msgid "msgstr "Geboren""
+msgstr ""
+
+msgid "msgid "Nastaveni licence""
+msgstr "msgstr "Lizenzeinstellungen""
+
+msgid ""
+msgstr "msgid "Nastavení cen""
+
+msgid "msgstr "Preiseinstellungen""
+msgstr ""
+
+msgid "msgid "Nastavení cen podle počtu osob""
+msgstr "msgstr "Preiseinstellungen nach Personenanzahl""
+
+msgid ""
+msgstr "msgid "Nastavení cen ubytování""
+
+msgid "msgstr "Unterkunftspreiseinstellungen""
+msgstr ""
+
+msgid "msgid "Nastavení fakturace""
+msgstr "msgstr "Abrechnungseinstellungen""
+
+msgid ""
+msgstr "msgid "Nastavení licence""
+
+msgid "msgstr "Lizenzeinstellungen""
+msgstr ""
+
+msgid "msgid "Nastavení pokojů""
+msgstr "msgstr "Zimmereinstellungen""
+
+msgid ""
+msgstr "msgid "Nastavení uloženo.""
+
+msgid "msgstr "Einstellungen gespeichert.""
+msgstr ""
+
+msgid "msgid "Neautorizovaný přístup.""
+msgstr "msgstr "Unautorisierter Zugriff.""
+
+msgid ""
+msgstr "msgid "Nedostatečná oprávnění.""
+
+msgid "msgstr "Unzureichende Berechtigungen.""
+msgstr ""
+
+msgid "msgid "Nejsme plátci DPH""
+msgstr "msgstr "Wir sind nicht Mehrwertsteuerpflichtig""
+
+msgid ""
+msgstr "msgid "Nemáte oprávnění.""
+
+msgid "msgstr "Sie haben keine Berechtigung.""
+msgstr ""
+
+msgid "msgid "Není zadán rok.""
+msgstr "msgstr "Jahr nicht angegeben.""
+
+msgid ""
+msgstr "msgid "Neplatné nebo chybějící ID rezervace.""
+
+msgid "msgstr "Ungültige oder fehlende Reservierungs-ID.""
+msgstr ""
+
+msgid "msgid "Neplatný požadavek.""
+msgstr "msgstr "Ungültige Anfrage.""
+
+msgid ""
+msgstr "msgid "Nepodařilo se kontaktovat licenční server.""
+
+msgid "msgstr "Lizenzserver konnte nicht erreicht werden.""
+msgstr ""
+
+msgid "msgid "Nová rezervace čeká na schválení""
+msgstr "msgstr "Neue Reservierung wartet auf Bestätigung""
+
+msgid ""
+msgstr "msgid "Název firmy""
+
+msgid "msgstr "Firmenname""
+msgstr ""
+
+msgid "msgid "Název firmy:""
+msgstr "msgstr "Firmenname:""
+
+msgid ""
+msgstr "msgid "Německo""
+
+msgid "msgstr "Deutschland""
+msgstr ""
+
+msgid "msgid "OK""
+msgstr "msgstr "OK""
+
+msgid ""
+msgstr "msgid "OP""
+
+msgid "msgstr "Personalausweis""
+msgstr ""
+
+msgid "msgid "Obecné""
+msgstr "msgstr "Allgemein""
+
+msgid ""
+msgstr "msgid "Obecné nastavení""
+
+msgid "msgstr "Allgemeine Einstellungen""
+msgstr ""
+
+msgid "msgid "Od""
+msgstr "msgstr "Von""
+
+msgid ""
+msgstr "msgid "Odběratel:""
+
+msgid "msgstr "Kunde:""
+msgstr ""
+
+msgid "msgid "Odeslat""
+msgstr "msgstr "Senden""
+
+msgid ""
+msgstr "msgid "Odeslat výzvu""
+
+msgid "msgstr "Anfrage senden""
+msgstr ""
+
+msgid "msgid "Odeslat výzvu k záloze""
+msgstr "msgstr "Anzahlungsaufforderung senden""
+
+msgid ""
+msgstr "msgid "Odeslat výzvu k úhradě zálohy""
+
+msgid "msgstr "Anzahlungsaufforderung senden""
+msgstr ""
+
+msgid "msgid "Odjezd""
+msgstr "msgstr "Abreise""
+
+msgid ""
+msgstr "msgid "Opravdu smazat tento záznam?""
+
+msgid "msgstr "Möchten Sie diesen Datensatz wirklich löschen?""
+msgstr ""
+
+msgid "msgid "Osobní údaje""
+msgstr "msgstr "Persönliche Daten""
+
+msgid ""
+msgstr "msgid "Platba za ubytování""
+
+msgid "msgstr "Unterkunftszahlung""
+msgstr ""
+
+msgid "msgid "Platbu provedete převodem na účet.""
+msgstr "msgstr "Bitte überweisen Sie den Betrag auf das Konto.""
+
+msgid ""
+msgstr "msgid "Plugin Ubytování: Vaše licence není aktivní nebo vypršela. Některé funkce jsou omezené.""
+
+msgid "msgstr "Unterkunfts-Plugin: Ihre Lizenz ist nicht aktiv oder abgelaufen. Einige Funktionen sind eingeschränkt.""
+msgstr ""
+
+msgid "msgid "Plátce DPH""
+msgstr "msgstr "Mehrwertsteuerpflichtig""
+
+msgid ""
+msgstr "msgid "Pokoj""
+
+msgid "msgstr "Zimmer""
+msgstr ""
+
+msgid "msgid "Pokoj %d""
+msgstr "msgstr "Zimmer %d""
+
+msgid ""
+msgstr "msgid "Pokoj č. %d""
+
+msgid "msgstr "Zimmer Nr. %d""
+msgstr ""
+
+msgid "msgid "Pokoje""
+msgstr "msgstr "Zimmer""
+
+msgid ""
+msgstr "msgid "Polsko""
+
+msgid "msgstr "Polen""
+msgstr ""
+
+msgid "msgid "Poznámka""
+msgstr "msgstr "Hinweis""
+
+msgid ""
+msgstr "msgid "Poznámka:""
+
+msgid "msgstr "Hinweis:""
+msgstr ""
+
+msgid "msgid "Počet nocí""
+msgstr "msgstr "Anzahl Nächte""
+
+msgid ""
+msgstr "msgid "Počet nocí:""
+
+msgid "msgstr "Anzahl Nächte:""
+msgstr ""
+
+msgid "msgid "Počet osob""
+msgstr "msgstr "Anzahl Personen""
+
+msgid ""
+msgstr "msgid "Počet osob na pokoj""
+
+msgid "msgstr "Personen pro Zimmer""
+msgstr ""
+
+msgid "msgid "Počet osob:""
+msgstr "msgstr "Anzahl Personen:""
+
+msgid ""
+msgstr "msgid "Počet pokojů""
+
+msgid "msgstr "Anzahl Zimmer""
+msgstr ""
+
+msgid "msgid "Pro nastavení více pokojů je vyžadována plná verzi pluginu.""
+msgstr "msgstr "Die Vollversion des Plugins ist erforderlich, um mehrere Zimmer einzurichten.""
+
+msgid ""
+msgstr "msgid "Pro vybraný rok nebyly nalezeny žádné záznamy.""
+
+msgid "msgstr "Keine Datensätze für das ausgewählte Jahr gefunden.""
+msgstr ""
+
+msgid "msgid "Pro zobrazení všech pokojů na jedné stránce (včetně kalendářů a formulářů) použijte tento shortcode:""
+msgstr "msgstr "Um alle Zimmer auf einer Seite anzuzeigen (inklusive Kalender und Formulare), verwenden Sie diesen Shortcode:""
+
+msgid ""
+msgstr "msgid "Při odesílání nastala chyba.""
+
+msgid "msgstr "Beim Senden ist ein Fehler aufgetreten.""
+msgstr ""
+
+msgid "msgid "Přidat blokaci""
+msgstr "msgstr "Sperre hinzufügen""
+
+msgid ""
+msgstr "msgid "Příjezd""
+
+msgid "msgstr "Anreise""
+msgstr ""
+
+msgid "msgid "Příjmení""
+msgstr "msgstr "Nachname""
+
+msgid ""
+msgstr "msgid "Příjmení:""
+
+msgid "msgstr "Nachname:""
+msgstr ""
+
+msgid "msgid "QR kód se nepodařilo vygenerovat.""
+msgstr "msgstr "QR-Code konnte nicht generiert werden.""
+
+msgid ""
+msgstr "msgid "QR platba""
+
+msgid "msgstr "QR-Zahlung""
+msgstr ""
+
+msgid "msgid "Rakousko""
+msgstr "msgstr "Österreich""
+
+msgid ""
+msgstr "msgid "Rekapitulace rezervace""
+
+msgid "msgstr "Reservierungszusammenfassung""
+msgstr ""
+
+msgid "msgid "Reset výběru""
+msgstr "msgstr "Auswahl zurücksetzen""
+
+msgid ""
+msgstr "msgid "Rezervace""
+
+msgid "msgstr "Reservierung""
+msgstr ""
+
+msgid "msgid "Rezervace byla uložena.""
+msgstr "msgstr "Reservierung wurde gespeichert.""
+
+msgid ""
+msgstr "msgid "Rezervace na firmu""
+
+msgid "msgstr "Firmenreservierung""
+msgstr ""
+
+msgid "msgid "Rezervace nebyla nalezena.""
+msgstr "msgstr "Reservierung nicht gefunden.""
+
+msgid ""
+msgstr "msgid "Rezervace nenalezena.""
+
+msgid "msgstr "Reservierung nicht gefunden.""
+msgstr ""
+
+msgid "msgid "Rezervace nyní <strong>čeká na schválení</strong>. Jakmile ji potvrdíme, obdržíte další e-mail.""
+msgstr "msgstr "Ihre Reservierung wartet nun <strong>auf Bestätigung</strong>. Sobald bestätigt, erhalten Sie eine weitere E-Mail.""
+
+msgid ""
+msgstr "msgid "Rezervace ubytování""
+
+msgid "msgstr "Unterkunftsreservierung""
+msgstr ""
+
+msgid "msgid "Rezervační systém ubytovaných hostů. S formulářem, kalendářem a správou rezervací v administraci. Včetně generování faktur a exportů.""
+msgstr "msgstr "Reservierungssystem für Gäste. Mit Formular, Kalender und Reservierungsverwaltung im Admin-Bereich. Inklusive Rechnungserstellung und Exporten.""
+
+msgid ""
+msgstr "msgid "Rok:""
+
+msgid "msgstr "Jahr:""
+msgstr ""
+
+msgid "msgid "S pozdravem""
+msgstr "msgstr "Mit freundlichen Grüßen""
+
+msgid ""
+msgstr "msgid "Schváleno""
+
+msgid "msgstr "Bestätigt""
+msgstr ""
+
+msgid "msgid "Shortcode formuláře""
+msgstr "msgstr "Formular-Shortcode""
+
+msgid ""
+msgstr "msgid "Shortcode kalendáře""
+
+msgid "msgstr "Kalender-Shortcode""
+msgstr ""
+
+msgid "msgid "Slovensko""
+msgstr "msgstr "Slowakei""
+
+msgid ""
+msgstr "msgid "Smazat""
+
+msgid "msgstr "Löschen""
+msgstr ""
+
+msgid "msgid "Smazat data při odinstalaci""
+msgstr "msgstr "Daten bei Deinstallation löschen""
+
+msgid ""
+msgstr "msgid "Stav""
+
+msgid "msgstr "Status""
+msgstr ""
+
+msgid "msgid "Stav rezervace""
+msgstr "msgstr "Reservierungsstatus""
+
+msgid ""
+msgstr "msgid "Stav rezervace:""
+
+msgid "msgstr "Reservierungsstatus:""
+msgstr ""
+
+msgid "msgid "Stav:""
+msgstr "msgstr "Status:""
+
+msgid ""
+msgstr "msgid "Stáhnout PDF""
+
+msgid "msgstr "PDF herunterladen""
+msgstr ""
+
+msgid "msgid "Stát""
+msgstr "msgstr "Land""
+
+msgid ""
+msgstr "msgid "Stát:""
+
+msgid "msgstr "Land:""
+msgstr ""
+
+msgid "msgid "Telefon""
+msgstr "msgstr "Telefon""
+
+msgid ""
+msgstr "msgid "Telefon:""
+
+msgid "msgstr "Telefon:""
+msgstr ""
+
+msgid "msgid "Tento formulář je dostupný pouze v plné verzi pluginu. Aktuálně lze používat pouze pokoj č. 1.""
+msgstr "msgstr "Dieses Formular ist nur in der Vollversion des Plugins verfügbar. Aktuell kann nur Zimmer Nr. 1 genutzt werden.""
+
+msgid ""
+msgstr "msgid "Tento kalendář je dostupný pouze v plné verzi pluginu. Aktuálně lze používat pouze pokoj č. 1.""
+
+msgid "msgstr "Dieser Kalender ist nur in der Vollversion des Plugins verfügbar. Aktuell kann nur Zimmer Nr. 1 genutzt werden.""
+msgstr ""
+
+msgid "msgid "Tento obsah je dostupný pouze s platnou licencí pluginu Ubytování.""
+msgstr "msgstr "Dieser Inhalt ist nur mit einer gültigen Unterkunfts-Plugin-Lizenz verfügbar.""
+
+msgid ""
+msgstr "msgid "Termín""
+
+msgid "msgstr "Termin""
+msgstr ""
+
+msgid "msgid "Termín byl úspěšně zablokován.""
+msgstr "msgstr "Termin wurde erfolgreich gesperrt.""
+
+msgid ""
+msgstr "msgid "Termín pobytu""
+
+msgid "msgstr "Aufenthaltszeitraum""
+msgstr ""
+
+msgid "msgid "Termín:""
+msgstr "msgstr "Termin:""
+
+msgid ""
+msgstr "msgid "Turistické poplatky""
+
+msgid "msgstr "Touristenabgaben""
+msgstr ""
+
+msgid "msgid "Turistický poplatek""
+msgstr "msgstr "Touristenabgabe""
+
+msgid ""
+msgstr "msgid "Turistický poplatek (Kč / osoba / noc)""
+
+msgid "msgstr "Touristenabgabe (CZK / Person / Nacht)""
+msgstr ""
+
+msgid "msgid "Turistický poplatek za osobu / noc""
+msgstr "msgstr "Touristenabgabe pro Person / Nacht""
+
+msgid ""
+msgstr "msgid "URL stránky s děkovnou zprávou""
+
+msgid "msgstr "Dankeseiten-URL""
+msgstr ""
+
+msgid "msgid "Ulozit""
+msgstr "msgstr "Speichern""
+
+msgid ""
+msgstr "msgid "Uložit""
+
+msgid "msgstr "Speichern""
+msgstr ""
+
+msgid "msgid "Uložit nastavení""
+msgstr "msgstr "Einstellungen speichern""
+
+msgid ""
+msgstr "msgid "Uložit změny""
+
+msgid "msgstr "Änderungen speichern""
+msgstr ""
+
+msgid "msgid "Upravit""
+msgstr "msgstr "Bearbeiten""
+
+msgid ""
+msgstr "msgid "Upravit záznam""
+
+msgid "msgstr "Datensatz bearbeiten""
+msgstr ""
+
+msgid "msgid "Uživatel není přihlášen.""
+msgstr "msgstr "Benutzer ist nicht angemeldet.""
+
+msgid ""
+msgstr "msgid "Variabilní symbol:""
+
+msgid "msgstr "Variables Symbol:""
+msgstr ""
+
+msgid "msgid "Vaše rezervace byla přijata""
+msgstr "msgstr "Ihre Reservierung wurde angenommen""
+
+msgid ""
+msgstr "msgid "Vaše rezervace byla přijata –""
+
+msgid "msgstr "Ihre Reservierung wurde angenommen –""
+msgstr ""
+
+msgid "msgid "Vyber rok:""
+msgstr "msgstr "Jahr auswählen:""
+
+msgid ""
+msgstr "msgid "Vystavení faktury – Rezervace #%d""
+
+msgid "msgstr "Rechnungserstellung – Reservierung #%d""
+msgstr ""
+
+msgid "msgid "Vystavit fakturu""
+msgstr "msgstr "Rechnung erstellen""
+
+msgid ""
+msgstr "msgid "WordPress je načten.""
+
+msgid "msgstr "WordPress ist geladen.""
+msgstr ""
+
+msgid "msgid "ZAL""
+msgstr "msgstr "ANZ""
+
+msgid ""
+msgstr "msgid "Zablokovat termín""
+
+msgid "msgstr "Termin sperren""
+msgstr ""
+
+msgid "msgid "Zadaná částka není platná.""
+msgstr "msgstr "Der eingegebene Betrag ist ungültig.""
+
+msgid ""
+msgstr "msgid "Zadané datum není platné.""
+
+msgid "msgstr "Das eingegebene Datum ist ungültig.""
+msgstr ""
+
+msgid "msgid "Zadejte celkový počet pokojů. Po uložení se zobrazí nastavení pro každý pokoj zvlášť.""
+msgstr "msgstr "Geben Sie die Gesamtzahl der Zimmer ein. Nach dem Speichern werden die Einstellungen für jedes Zimmer separat angezeigt.""
+
+msgid ""
+msgstr "msgid "Zadejte cenu za noc podle počtu osob (1–10). Pokud některé počty osob nejsou využívány, pole ponechte prázdné.""
+
+msgid "msgstr "Geben Sie den Preis pro Nacht nach Personenanzahl ein (1–10). Wenn einige Personenanzahlen nicht genutzt werden, lassen Sie die Felder leer.""
+msgstr ""
+
+msgid "msgid "Zadejte požadovanou výši zálohy (Kč):""
+msgstr "msgstr "Geben Sie den gewünschten Anzahlungsbetrag ein (CZK):""
+
+msgid ""
+msgstr "msgid "Zakoupení dlouhodobé licence""
+
+msgid "msgstr "Langzeitlizenz kaufen""
+msgstr ""
+
+msgid "msgid "Zažádat o licenci zdarma""
+msgstr "msgstr "Kostenlose Lizenz anfordern""
+
+msgid ""
+msgstr "msgid "Zobrazit""
+
+msgid "msgstr "Anzeigen""
+msgstr ""
+
+msgid "msgid "Zpráva pro příjemce:""
+msgstr "msgstr "Nachricht für Empfänger:""
+
+msgid ""
+msgstr "msgid "Zpět""
+
+msgid "msgstr "Zurück""
+msgstr ""
+
+msgid "msgid "Zpět na přehled""
+msgstr "msgstr "Zurück zur Übersicht""
+
+msgid ""
+msgstr "msgid "Zvolte délku licence. Níže se zobrazí platební údaje, které vám také přijdou na e-mail.""
+
+msgid "msgstr "Wählen Sie die Lizenzdauer. Unten werden die Zahlungsdaten angezeigt, die Ihnen auch per E-Mail zugesendet werden.""
+msgstr ""
+
+msgid "msgid "Záloha k úhradě""
+msgstr "msgstr "Anzahlung zu zahlen""
+
+msgid ""
+msgstr "msgid "Záloha za ubytování""
+
+msgid "msgstr "Unterkunftsanzahlung""
+msgstr ""
+
+msgid "msgid "Zálohová faktura č.""
+msgstr "msgstr "Anzahlungsrechnung Nr.""
+
+msgid ""
+msgstr "msgid "Zálohová platba""
+
+msgid "msgstr "Anzahlung""
+msgstr ""
+
+msgid "msgid "Záznam byl úspěšně upraven.""
+msgstr "msgstr "Datensatz wurde erfolgreich bearbeitet.""
+
+msgid ""
+msgstr "msgid "Záznam nebyl nalezen.""
+
+msgid "msgstr "Datensatz nicht gefunden.""
+msgstr ""
+
+msgid "msgid "Záznam nenalezen.""
+msgstr "msgstr "Datensatz nicht gefunden.""
+
+msgid ""
+msgstr "msgid "faktura_rezervace_%d.pdf""
+
+msgid "msgstr "rechnung_reservierung_%d.pdf""
+msgstr ""
+
+msgid "msgid "neúčtován firmám""
+msgstr "msgstr "Firmen nicht berechnet""
+
+msgid ""
+msgstr "msgid "osob""
+
+msgid "msgstr "Gäste""
+msgstr ""
+
+msgid "msgid "osoba""
+msgstr "msgstr "Person""
+
+msgid ""
+msgstr "msgid "osobu""
+
+msgid "msgstr "Person""
+msgstr ""
+
+msgid "msgid "osoby""
+msgstr "msgstr "Personen""
+
+msgid ""
+msgstr "msgid "potvrzená rezervace""
+
+msgid "msgstr "bestätigte Reservierung""
+msgstr ""
+
+msgid "msgid "uzavřený termín""
+msgstr "msgstr "geschlossener Termin""
+
+msgid ""
+msgstr "msgid "vybrané termíny""
+
+msgid "msgstr "ausgewählte Termine""
+msgstr ""
+
+msgid "msgid "Úprava rezervace""
+msgstr "msgstr "Reservierung bearbeiten""
+
+msgid ""
+msgstr "msgid "Úprava rezervace č. %d""
+
+msgid "msgstr "Reservierung Nr. %d bearbeiten""
+msgstr ""
+
+msgid "msgid "Čeká na schválení""
+msgstr "msgstr "Wartet auf Bestätigung""
+
+msgid ""
+msgstr "msgid "Česká republika""
+
+msgid "msgstr "Tschechische Republik""
+msgstr ""
+
+msgid "msgid "Český formát účtu""
+msgstr "msgstr "Tschechisches Kontenformat""
+
+msgid ""
+msgstr "msgid "Čtvrtletí:""
+
+msgid "msgstr "Quartal:""
+msgstr ""
+
+msgid "msgid "Číslo OP""
+msgstr "msgstr "Personalausweisnummer""
+
+msgid ""
+msgstr "msgid "Číslo občanského průkazu:""
+
+msgid "msgstr "Personalausweisnummer:""
+msgstr ""
+
+msgid "msgid "Číslo účtu (IBAN):""
+msgstr "msgstr "Kontonummer (IBAN):""
+
+msgid ""
+msgstr "msgid "Číslo účtu – IBAN""
+
+msgid "msgstr "Kontonummer – IBAN""
+msgstr ""
+
+msgid "msgid "Číslo účtu – Mezinárodní formát IBAN""
+msgstr "msgstr "Kontonummer – Internationales IBAN-Format""
+
+msgid ""
+msgstr "msgid "Číslo účtu – český formát""
+
+msgid "msgstr "Kontonummer – Tschechisches Format""
+msgstr ""
+
+msgid "msgid "Číslo účtu:""
+msgstr "msgstr "Kontonummer:""
+
+msgid ""
+msgstr "msgid "čeká na schválení""
+
+msgid "msgstr "wartet auf Bestätigung""
+msgstr ""
+
+msgid "msgid "Žádné blokace nenalezeny.""
+msgstr "msgstr "Keine Sperren gefunden.""
+
+msgid ""
+msgstr "msgid "Žádné rezervace nebyly nalezeny.""
+
+msgid "msgstr "Keine Reservierungen gefunden.""
+msgstr ""
+
+msgid "msgid "Žádné záznamy pro tento pokoj.""
+msgstr "msgstr "Keine Datensätze für dieses Zimmer.""
+
+msgid ""
+msgstr "msgid "Žádné záznamy pro tento rok.""
+
+msgid "msgstr "Keine Datensätze für dieses Jahr.""
+msgstr ""
+
+msgid "msgid "Žádné záznamy pro zvolený rok.""
+msgstr "msgstr "Keine Datensätze für das ausgewählte Jahr.""
+
+msgid ""
+msgstr "msgid "Žádné údaje pro vybrané období.""
+
+msgid "msgstr "Keine Daten für den ausgewählten Zeitraum.""
+msgstr ""
+
+msgid "msgid "Žádost o 3 měsíční licenci zdarma""
+msgstr "msgstr "Anfrage für eine 3-monatige kostenlose Lizenz""
+
+msgid ""
+msgstr "msgid "– Vyberte stránku –""
+
+msgid "msgstr "– Seite auswählen –""
+msgstr ""
+
+msgid "msgid "⚠️ Nepodařilo se kontaktovat licenční server.""
+msgstr "msgstr "⚠️ Lizenzserver konnte nicht erreicht werden.""

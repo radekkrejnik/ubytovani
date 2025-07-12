@@ -1,0 +1,399 @@
+/* === KALENDÁŘ === */
+#ubytovani-kalendar {
+    max-width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    font-family: system-ui, sans-serif;
+}
+
+.kalendar-mesice {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.kalendar-mesic {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    width: 260px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.mesic-nadpis {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 8px;
+    text-transform: capitalize;
+}
+
+.kalendar-mesic table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.kalendar-mesic th,
+.kalendar-mesic td {
+    width: 14.28%;
+    padding: 6px;
+    text-align: center;
+    border: 1px solid #eee;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.kalendar-mesic th {
+    background-color: #4b4a4a;
+    font-weight: 500;
+    font-size: 13px;
+    color: #fff;
+}
+
+.kalendar-mesic td:hover {
+    background-color: #e6f0ff;
+}
+
+.kalendar-mesic td.vybrano {
+    background-color: #b6e7a0;
+    font-weight: bold;
+    color: #000;
+    border-color: #7dcf56;
+}
+
+/* Každý den musí mít tuto třídu */
+.kalendar-den {
+    position: relative;
+    overflow: hidden;
+}
+
+/* === PŮLENÍ DNŮ === */
+
+/* Čeká na schválení – žlutá (sytější) */
+.kalendar-den.rez-leva-ceka::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    background-color: #ffd700;
+    z-index: 1;
+}
+
+.kalendar-den.rez-prava-ceka::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    background-color: #ffd700;
+    z-index: 1;
+}
+
+/* Schváleno – červená (sytější) */
+.kalendar-den.rez-leva-schvaleno::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    background-color: #ff4d4d;
+    z-index: 1;
+}
+
+.kalendar-den.rez-prava-schvaleno::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    background-color: #ff4d4d;
+    z-index: 1;
+}
+
+/* CELÉ BAREVNÉ POLE mezi příjezdem a odjezdem */
+.kalendar-den.rez-cela-ceka {
+    background-color: #ffd700;
+}
+
+.kalendar-den.rez-cela-schvaleno {
+    background-color: #ff4d4d;
+}
+
+.kalendar-den.skryte-datum {
+    color: #999;
+    cursor: not-allowed;
+}
+
+/* === SKRYTÉ POLE === */
+.skryte {
+    display: none;
+}
+
+/* === FORMULÁŘ UBYTOVÁNÍ === */
+#formular-ubytovani {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fefefe;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    font-family: system-ui, sans-serif;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+#formular-ubytovani label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+#formular-ubytovani input,
+#formular-ubytovani select,
+#formular-ubytovani textarea {
+    width: 100%;
+    padding: 8px 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #fff;
+    box-sizing: border-box;
+    transition: border-color 0.2s;
+}
+
+#formular-ubytovani input:focus,
+#formular-ubytovani select:focus,
+#formular-ubytovani textarea:focus {
+    border-color: #007be0;
+    outline: none;
+}
+
+#formular-ubytovani .full {
+    grid-column: 1 / -1;
+}
+
+#firma-fields {
+    margin-top: 10px;
+}
+
+#formular-ubytovani button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #181818;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#formular-ubytovani button[type="submit"]:hover {
+    background-color: #5b5b5b;
+}
+
+#reset-vyber {
+    background-color: #ccc;
+    color: #000;
+    border: 1px solid #999;
+    padding: 8px 16px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#reset-vyber:hover {
+    background-color: #bbb;
+}
+
+.cena-label {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+#zobrazena-cena {
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #007700;
+}
+
+/* === LEGENDA KALENDÁŘE === */
+.kalendar-legenda {
+    margin-top: 12px;
+    text-align: center;
+    font-size: 13px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    background: #fafafa;
+    padding: 6px 8px;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+}
+
+.kalendar-legenda strong {
+    margin-right: 8px;
+    font-weight: 600;
+    color: #333;
+}
+
+.legenda-polozka {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 6px;
+    font-size: 13px;
+    border-radius: 4px;
+    background: #f0f0f0;
+    color: #333;
+    white-space: nowrap;
+}
+
+.legenda-barva {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+}
+
+.legenda-vyber .legenda-barva {
+    background-color: #1d7732;
+}
+
+.legenda-ceka .legenda-barva {
+    background-color: #ffd700;
+}
+
+.legenda-schvaleno .legenda-barva {
+    background-color: #ff4d4d;
+}
+
+.legenda-blokovano .legenda-barva {
+    background-color: #999;
+}
+
+/* === HLÁŠENÍ === */
+.hlaseni {
+    margin-top: 1em;
+    padding: 1em;
+    border-radius: 5px;
+    font-weight: bold;
+    position: relative;
+}
+.hlaseni.uspech {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+.hlaseni button {
+    margin-top: 1em;
+    background: #1d7732;
+    color: white;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+
+
+
+/* === zelené půlení polí === */
+.kalendar-den.rez-leva-vyber::before {
+    content: '';
+    position: absolute;
+    top: 0; bottom: 0; left: 0;
+    width: 50%;
+    background-color: #1d7732;
+    z-index: 1;
+}
+
+.kalendar-den.rez-prava-vyber::after {
+    content: '';
+    position: absolute;
+    top: 0; bottom: 0; right: 0;
+    width: 50%;
+    background-color: #1d7732;
+    z-index: 1;
+}
+.kalendar-den.rez-cela-vyber {
+    background-color: #1d7732;
+}
+.kalendar-nav-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.kalendar-nav-wrapper button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 0.3rem 0.8rem;    /* menší výška a šířka */
+    font-size: 1.2rem;         /* menší velikost šipky */
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.kalendar-nav-wrapper button:hover {
+    background-color: #444;
+}
+.firma-checkbox-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    white-space: nowrap;
+}
+/* === ŠEDÉ BLOKACE === */
+
+/* Celé blokované dny */
+.kalendar-den.rez-cela-blokovano {
+    background-color: #999;
+    color: white;
+}
+
+/* Levá půlka dne (např. poslední den blokace) */
+.kalendar-den.rez-leva-blokovano::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    background-color: #999;
+    z-index: 1;
+}
+
+/* Pravá půlka dne (např. první den blokace) */
+.kalendar-den.rez-prava-blokovano::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    background-color: #999;
+    z-index: 1;
+}
+tr.rez-minula {
+    background-color: #f8d7da !important; /* světle červená */
+}
+tr.rez-aktualni {
+    background-color: #d1ecf1 !important; /* světle modrá */
+}
+tr.rez-budouci {
+    background-color: #d4edda !important; /* světle zelená */
+}
